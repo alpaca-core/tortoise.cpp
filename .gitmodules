@@ -1,5 +1,7 @@
-[submodule "ggml"]
+[submodule "ac-ggml/"]
 	path = ggml
+	url = https://github.com/alpaca-core/ggml.git
+[submodule "ggml"]
 	url = https://github.com/ggerganov/ggml.git
 [submodule "ggml/"]
 	url = https://github.com/balisujohn/ggml.git
