@@ -11,6 +11,7 @@ out/
 tmp/
 models/ggml-diffusion-model.bin
 models/ggml-model.bin
+models/ggml-vocoder-model.bin
 models-mnt
 
 ggml/examples/tortoise/ggml-diffusion-model.bin
